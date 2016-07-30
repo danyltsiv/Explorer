@@ -4,6 +4,6 @@
 2. Go to this directory in Node.js command prompt 
 3. Type command "**npm install**" to install packages.
 4. Type "**npm start**" and server will be started.(Open in browser [http://localhost:5000](http://localhost:5000)).
-[http://localhost:5000/tree](http://localhost:5000/tree) returns json which discribes structure of folder **/public/Home**.
+[http://localhost:5000/tree](http://localhost:5000/tree) returns json which discribes structure of folder _**/public/Home**_.
 
-**This program creates a directory tree of folder /public/Home with functionality on the similarity of windows explorer.**
+**This program creates a directory tree of folder _/public/Home_ with functionality on the similarity of windows explorer.**
